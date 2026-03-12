@@ -11,6 +11,7 @@ incorporated in the Commonwealth of Massachusetts on March 9, 2026.
 | Certificate-of-Organization-2026.pdf | Certificate of Organization issued by the Commonwealth of Massachusetts |
 | B2-Bylaws-2026.pdf | Bylaws of The Benevolent Bandwidth Foundation, Inc. |
 | B2-Charter-and-Operating-Principles-2026.pdf | Charter and Operating Principles of the Foundation |
+| B2-MeetingMinutes-03102026.pdf | Organizational Meeting Minutes |
 
 ## Forthcoming Documents
 
