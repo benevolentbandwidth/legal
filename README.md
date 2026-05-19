@@ -12,6 +12,7 @@ incorporated in the Commonwealth of Massachusetts on March 9, 2026.
 | B2-Bylaws-2026.pdf | Bylaws of The Benevolent Bandwidth Foundation, Inc. |
 | B2-Charter-and-Operating-Principles-2026.pdf | Charter and Operating Principles of the Foundation |
 | B2-MeetingMinutes-03102026.pdf | Organizational Meeting Minutes |
+| B2-MeetingMinutes-05082026.pdf | Organizational Meeting Minutes |
 
 ## Forthcoming Documents
 
@@ -26,3 +27,4 @@ The following documents will be published here when available:
 benevolent@benevolentbandwidth.org  
 https://benevolentbandwidth.org  
 github.com/benevolentbandwidth
+
